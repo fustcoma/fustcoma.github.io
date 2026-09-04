@@ -14,12 +14,12 @@ La web està creada des de zero utilitzant tecnologies web bàsiques, sense fram
 
 ## Característiques
 
-* 💻 Disseny web personalitzat.
-* 📱 Disseny adaptable a diferents dispositius.
-* 🎨 Estils i animacions amb CSS.
-* ⚡ Funcionalitats amb JavaScript.
-* 📂 Seccions dedicades als meus projectes.
-* 🌍 Publicada amb **GitHub Pages**.
+* Disseny web personalitzat.
+* Disseny adaptable a diferents dispositius.
+* Estils i animacions amb CSS.
+* Funcionalitats amb JavaScript.
+* Seccions dedicades als meus projectes.
+* Publicada amb **GitHub Pages**.
 
 ## Tecnologies
 
@@ -36,11 +36,11 @@ La pàgina està en constant desenvolupament i anirà incorporant nous projectes
 
 Alguns dels projectes que es poden anar afegint inclouen:
 
-* 🎮 Projectes de videojocs
-* 🤖 Projectes de programació
-* 🔌 Projectes d'electrònica i Arduino
-* 🌐 Projectes web
-* 🐍 Projectes amb Python
+* Projectes de videojocs
+* Projectes de programació
+* Projectes d'electrònica i Arduino
+* Projectes web
+* Projectes amb Python
 
 ## Llicència
 
